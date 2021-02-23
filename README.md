@@ -1,24 +1,18 @@
-# Qiskit Hackathon Taiwan 2020
+# Northwestern Qiskit Hackathon 2021
 
 ## Things to do before the hackathon
 
 Check the [`preparation&installation`](preparation%26installation.md) note for things to do before the hackathon
 
-## I have an idea for the hackathon
+## Deciding on a project
 
-Open an issue using the [`new project template`](https://github.com/qiskit-community/qiskit-hackathon-taiwan-20/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template.
+Open an issue using the [`new project template`](https://github.com/qiskit-community/northwestern-hackathon/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template. 
 
-Don't worry if your team is not complete yet.
-Tag your project with `members wanted` and describe what kind of member are your searching for in the `Members` section.
-At the beginning of the hackathon, the project should have no more than 5 members.
-
-## My team is complete
-
-Ask a Qiskit coach to remove the label `members wanted`.
+Talk with your team and the Coaches to come up with a good project idea that used both Qiskit and at least one of the provided data sets.
 
 ## The project is ready. Let's hack!
 
-After the project is defined and the team is complete, you can ask an IBMer to add the label `group ready`. This should happen before the group formation stage is finished, around noon of the first day. From this point on, you can use the issue to communicate progress as additional comments.
+Great! Use whatever communication tool you prefer to stay in touch with your team. From this point on, you can use the issue to communicate progress as additional comments.
 
 ## The team needs a coach
 
@@ -28,38 +22,20 @@ The team needs a coach before the final submission at the end of the hackathon.
 
 
 ## Hackathon Schedule
-|  Tuesday (Sep 8)|  |
+|  Thursday (Feb 25)|  |
 | -------------- | --------------------------------- |
-| 08:30 - 12:30 | Travel to Venue |
-| 12:30 - 12:50 | Registration |
-| 12:50 - 14:00 | Lunch |
-| 14:00 - 15:00 | Opening & Keynote Speech|
-| 15:00 - 15:10 | Introduction of Qiskit Hackathon|
-| 15:10 - 15:30 | Coffee Break|
-| 15:30 - 16:10 | Team Building Activities / Pitches|
-| 16:20 - 17:00 | Introduce ideas and members of each team|
-| 17:00 - 17:30 | Hotel Check-In & Room Assignments|
-| 17:30 - 18:00 | Group Discussion|
-| 18:00 - 20:00 | Dinner & Hackathon Welcome Session|
+| 11:00 - 11:20 | Opening & Welcome Speech (Zoom)|
+| 11:20 - 12:30 | Define and decide on a project|
+| 13:00 - 22:00 | Build! (extend as long as your team would like)|
 
 
-| Wednesday (Sep 9)|  |
+| Friday (Feb 26)|  |
 | -------------- | --------------------------------- |
-| 07:00 - 08:30 | Breakfast |
-| 08:30 - 12:30 | Hackathon Begins (Hacking Session 1) |
-| 12:30 - 13:30 | Lunch|
-| 13:30 - 17:30 | Hacking Session 2 |
-| 17:30 - 18:00 | Break |
-| 18:00 - 20:00 | Dinner|
+| 07:00 - 08:30 | Make sure to eat a good breakfast |
+| 08:30 - 11:00 | Finish building your project |
+| 11:00 | Project Deadline! All projects must be finished, and the Github Issue updated|
+| 11:00 - 12:00 | Create your presentation for the judges |
+| 12:00 - 13:30 | Final Presentations |
+| 14:00 - 15:00 | Closing ceremony|
 
-| Thursday (Sep 10) |  |
-| -------------- | --------------------------------- |
-| 07:00 - 09:00 | Breakfast |
-| 09:00 - 09:30 | Hackathon Ends, Presentations Get Finalized |
-| 09:30 - 10:55 | Team Presentations (5min + 2min Q&A) |
-| 10:55 - 11:30 | Coffee Break|
-| 11:30 - 12:00 | Awards Ceremony|
-| 12:00 - 13:00 | Lunch|
-| 13:00 - 14:00 | Free Time |
-| 14:10 - 14:30 | Board Motorcoaches and Depart |
-| 14:30 - 18:30 | Return Trip |
+
