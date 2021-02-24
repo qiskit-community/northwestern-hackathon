@@ -8,7 +8,7 @@ Check the [`preparation&installation`](preparation%26installation.md) note for t
 
 Open an issue using the [`new project template`](https://github.com/qiskit-community/northwestern-hackathon/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template. 
 
-Talk with your team and the Coaches to come up with a good project idea that used both Qiskit and at least one of the provided data sets.
+Talk with your team and the Coaches to come up with a good project idea that uses both Qiskit and at least one of the provided data sets.
 
 ## The project is ready. Let's hack!
 
